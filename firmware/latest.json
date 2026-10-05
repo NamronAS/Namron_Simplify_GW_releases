@@ -1,6 +1,6 @@
 {
-  "version": "0.1.79",
-  "url": "https://raw.githubusercontent.com/NamronAS/Namron_Simplify_GW_releases/main/firmware/bin/14c20685ac0c4bb59c686bbc75c06d8f.Gateway-Namron-Product-OTA_0.1.79_20260508-02.bin",
-  "sha256": "ee416bd84bacc64b31868c39d99ce7946c6a3c75d27af2e8d14cd1c7bdb68f90",
-  "notes": ""
+  "version": "0.1.84",
+  "url": "https://raw.githubusercontent.com/NamronAS/Namron_Simplify_GW_releases/main/firmware/bin/2c20924bbc624b619e945fa19147e6ae.VZW03B-Gateway-Namron_0.1.84_202060922_OTA_2.bin",
+  "sha256": "180b97e095741396bbd22eea88cee9fc5a4e6514f30a41f008951d625d2d85e1",
+  "notes": "1. Added new features to the 091 device. 2. Improved compatibility with older Wi-Fi configurations. 3. Added timekeeping/summer time detection when setting the device time. 4. Disabled Wi-Fi power saving mode and optimized transmission speed using external memory. 5. Changed MQTT keep-alive to 30 seconds. 6. Resolved the issue of no OTA success notification after a successful OTA update on older gateways."
 }
